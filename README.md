@@ -1,1 +1,2 @@
 # typescriptAPI
+# npm start
